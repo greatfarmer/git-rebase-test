@@ -22,8 +22,8 @@ $ git rebase -i HEAD~3
 
 ```
 pick 53e32fb Add test3.html
-stash b2as00a Add One
-stash c1a6b23 Add Two
+squash b2as00a Add One
+squash c1a6b23 Add Two
 ...
 ```
 
